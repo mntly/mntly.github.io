@@ -17,45 +17,31 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Test
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Test
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+- title: WhiteHat School 2nd
+  title-url: https://whitehatschool.kr/pages/apply_student
+  date: Mar 2024 - Present
+  subtitle: Student in WHS 2nd, vulnerability major
   timeline-side: right
 
-- title: Test
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Test
+- title: University of California, Berkeley
+  title-url: https://su23.cs161.org/
+  date: Jun 2023 - Aug 2023
+  subtitle: Summer Semester, Computer Security
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: System
+    - tag: Crypto
+    - tag: Web
+    - tag: Networking
   timeline-side: right
 
-- title: Test
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: Test
+- title: Korea Advanced Institute of Science and Technology
+  title-url: https://www.kaist.ac.kr/kr/
+  date: 2023 - Present
+  subtitle: University, undergraduate
   timeline-side: left
 
-- title: Test
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Test
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: POSTECH ON-LINE HACKING & SECURITY CAMP
+  title-url: 
+  date: Jan 2021
+  subtitle: Team Ampersand
   timeline-side: right
-
-- title: Test
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: Test
-  timeline-side: left
