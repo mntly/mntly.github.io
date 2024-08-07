@@ -23,7 +23,7 @@
   subtitle: Student in WHS 2nd, vulnerability major
   timeline-side: right
 
-- title: University of California, Berkeley
+- title: University of California, Berkeley (UCB)
   title-url: https://su23.cs161.org/
   date: Jun 2023 - Aug 2023
   subtitle: Summer Semester, Computer Security
@@ -34,8 +34,14 @@
     - tag: Networking
   timeline-side: right
 
-- title: Korea Advanced Institute of Science and Technology
+- title: Korea Advanced Institute of Science and Technology (KAIST)
   title-url: https://www.kaist.ac.kr/kr/
-  date: 2023 - Present
-  subtitle: University, undergraduate
+  date: 2024 - Present
+  subtitle: University, undergraduate, School of Computing (SoC)
+  timeline-side: left
+  
+- title: Korea Advanced Institute of Science and Technology (KAIST)
+  title-url: https://www.kaist.ac.kr/kr/
+  date: 2023
+  subtitle: University, undergraduate, School of Freshman
   timeline-side: left
