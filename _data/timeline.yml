@@ -23,6 +23,12 @@
   subtitle: Student in WHS 2nd, vulnerability major
   timeline-side: right
 
+- title: Korea Advanced Institute of Science and Technology (KAIST)
+  title-url: https://www.kaist.ac.kr/kr/
+  date: 2024 - Present
+  subtitle: University, undergraduate, School of Computing (SoC)
+  timeline-side: left
+  
 - title: University of California, Berkeley (UCB)
   title-url: https://su23.cs161.org/
   date: Jun 2023 - Aug 2023
@@ -33,12 +39,6 @@
     - tag: Web
     - tag: Networking
   timeline-side: right
-
-- title: Korea Advanced Institute of Science and Technology (KAIST)
-  title-url: https://www.kaist.ac.kr/kr/
-  date: 2024 - Present
-  subtitle: University, undergraduate, School of Computing (SoC)
-  timeline-side: left
   
 - title: Korea Advanced Institute of Science and Technology (KAIST)
   title-url: https://www.kaist.ac.kr/kr/
