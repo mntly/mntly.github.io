@@ -6,13 +6,13 @@
 #   weight: 5
 
 - name: IDA
-  weight: 3
+  weight: 4
 
 - name: x96dbg
   weight: 3
 
 - name: pwndbg
-  weight: 3
+  weight: 4
 
 - name: VS Code
   weight: 2
