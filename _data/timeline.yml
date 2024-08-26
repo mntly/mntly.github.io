@@ -17,6 +17,12 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Project SEKAI CTF 2024
+  title-url: https://ctf.sekai.team/
+  date: Aug 2024
+  subtitle: CTF solved 3 [nolibc (pwn), 2 simple miscs]
+  timeline-side: right
+
 - title: Hacking Camp 29th
   title-url: https://hackingcamp.org/
   date: Aug 2024
