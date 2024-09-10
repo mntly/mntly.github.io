@@ -18,13 +18,13 @@
 #   timeline-side: right
 
 - title: "CSAW'24 Quals"
-  title-url: https://ctf.csaw.io/
+  title-url: https://velog.io/@mntly/KOR-CSAW24-Quals-VIP-Blacklist
   date: Sep 2024
   subtitle: CTF solved 1 [VIP Blacklist (pwn)]
   timeline-side: left
 
 - title: Project SEKAI CTF 2024
-  title-url: https://ctf.sekai.team/
+  title-url: https://velog.io/@mntly/English-Project-SEKAI-CTF-2024-nolibc
   date: Aug 2024
   subtitle: CTF solved 3 [nolibc (pwn), 2 simple miscs]
   timeline-side: right
