@@ -17,6 +17,12 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: "CSAW'24 Quals"
+  title-url: https://ctf.csaw.io/
+  date: Sep 2024
+  subtitle: CTF solved 1 [VIP Blacklist (pwn)]
+  timeline-side: left
+
 - title: Project SEKAI CTF 2024
   title-url: https://ctf.sekai.team/
   date: Aug 2024
