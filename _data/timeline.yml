@@ -17,6 +17,12 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: "PatriotCTF 2024"
+  title-url: 
+  date: Sep 2024
+  subtitle: "CTF solved 3 [shellcrunch (pwn) / emoji stack, emoji stack v2, really only echo (misc)]"
+  timeline-side: right
+
 - title: "CSAW'24 Quals"
   title-url: https://velog.io/@mntly/KOR-CSAW24-Quals-VIP-Blacklist
   date: Sep 2024
@@ -37,7 +43,7 @@
 
 - title: WhiteHat School 2nd
   title-url: https://whitehatschool.kr/pages/apply_student
-  date: Mar 2024 - Present
+  date: Mar 2024 - Sep 2024
   subtitle: Student in WHS 2nd, vulnerability field
   timeline-side: right
 
