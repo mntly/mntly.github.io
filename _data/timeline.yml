@@ -17,6 +17,12 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: "0xL4ugh"
+  title-url: https://velog.io/@mntly/ENG-0xL4ugh-CTF-Wanna-Play-a-Game
+  date: Dec 2024
+  subtitle: "CTF solved 1 [Wanna Play a Game? (pwn)]"
+  timeline-side: left
+
 - title: "PatriotCTF 2024"
   title-url: 
   date: Sep 2024
