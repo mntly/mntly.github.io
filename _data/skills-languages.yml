@@ -24,7 +24,7 @@
   weight: 2
 
 - name: Assembly
-  weight: 3
+  weight: 2
 
 - name: SQL
   weight: 2
