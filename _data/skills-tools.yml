@@ -14,5 +14,5 @@
 - name: pwndbg
   weight: 4
 
-- name: VS Code
+- name: WinDbg
   weight: 2
