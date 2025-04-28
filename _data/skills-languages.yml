@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Python
-  weight: 5
+  weight: 4
 
 - name: JavaScript
   weight: 3
@@ -15,7 +15,7 @@
   weight: 3
 
 - name: C
-  weight: 5
+  weight: 4
 
 - name: Scala
   weight: 2
