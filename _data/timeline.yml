@@ -21,12 +21,18 @@
   title-url: 
   date: Apr 2025
   subtitle: "CTF solved 1 [TAR (???)]"
-  timeline-side: right
+  timeline-side: left
 
 - title: Mar 2025 CTF [PwnMe CTF Quals 2025]
   title-url: 
   date: Mar 2025
   subtitle: "CTF solved 2 [got (pwn) / back to the past (rev)]"
+  timeline-side: right
+
+- title: Hacking Camp 30th
+  title-url: https://hackingcamp.org/
+  date: Feb 2024
+  subtitle: 
   timeline-side: left
 
 - title: Feb 2025 CTF [LA CTF 2025]
