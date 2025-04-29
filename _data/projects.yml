@@ -13,13 +13,28 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: 1-day Research [CVE-2021-39863]
-  descr: Team SegFau1t
-  #"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: [SegFau1t] 1-day Research [CVE-2023-21608]
+  descr: Adobe PDF Reader UAF (2024.10.28 ~ )
+  demo: 
+  tags:
+    - tag: Adobe
+    - tag: JavaScript
+    - tag: Windows11
+
+- name: [SegFau1t] 1-day Research follow-up study [CVE-2021-39863]
+  descr: Bypassing CFG of CVE-2021-39863 (2024.08.05 ~ 2024.09.19)
+  demo: 
+  tags:
+    - tag: Adobe
+    - tag: JavaScript
+    - tag: Windows11
+    
+- name: [SegFau1t] 1-day Research [CVE-2021-39863]
+  descr: Adobe PDF Reader OOB R/W From Encoding mismatch (2024.04.26 ~ 2024.07.14)
   demo: https://velog.io/@mntly/series/WHS-SEGFUALT
   tags:
     - tag: Adobe
-    - tag: Java Script
+    - tag: JavaScript
     - tag: Windows11
 
 #- name: project Test
