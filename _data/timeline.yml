@@ -17,6 +17,12 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Aug CTF admin [2025 HackQuest Final]
+  title-url: https://www.kaist.ac.kr/news/html/news/?mode=V&mng_no=48010
+  date: Aug 2025
+  subtitle: "Make 1 CTF challenge [NotePad (pwn)]"
+  timeline-side: right
+
 - title: Apr 2025 CTF [2025 Hacktheon Sejong]
   title-url: 
   date: Apr 2025
