@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h3>Hello from Webview!</h3>
+    <script>
+      try {
+        const os = require('os');
+        document.body.innerHTML += `<p>Platform: ${os.platform()}</p>`;
+      } catch (err) {
+        document.body.innerHTML += `<p>Error: ${err.message}</p>`;
+      }
+    </script>
+  </body>
+</html>
