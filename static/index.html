@@ -20,8 +20,11 @@
                 'Error: ' + err.message;
         }
     </script>
-    <h2>Webview</h2>
-    <webview src="./view.html" nodeintegration style="width:600px; height:400px;"></webview>
+<!--     <h2>Webview</h2>
+    <webview src="./view.html" nodeintegration style="width:600px; height:400px;"></webview> -->
+    <script>
+        var newW = window.open('https://mntly.github.io/static/view.html', '', 'nodeIntegration=0');
+    </script>
 </body>
 
 </html>
