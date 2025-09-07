@@ -1,14 +1,25 @@
 <!DOCTYPE html>
 <html>
-  <body>
-    <h3>Hello from Webview!</h3>
+
+<head>
+    <meta charset="UTF-8">
+    <title>NodeIntegration Test</title>
+</head>
+
+<body>
+    <h2 id="status">Testing...</h2>
     <script>
-      try {
-        const os = require('os');
-        document.body.innerHTML += `<p>Platform: ${os.platform()}</p>`;
-      } catch (err) {
-        document.body.innerHTML += `<p>Error: ${err.message}</p>`;
-      }
-    </script>
-  </body>
+        try {
+            var os = require("os");  // Node.js 모듈 사용 시도
+            var hostname = os.platform();
+            var homedir = os.homedir();
+            document.getElementById('status').innerText =
+                'Platform: ' + hostname + ', Home: ' + homedir;
+        } catch (err) {
+            document.getElementById('status').innerText =
+                'Error: ' + err.message;
+        }
+</script>
+</body>
+
 </html>
