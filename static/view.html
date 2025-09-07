@@ -14,12 +14,12 @@
             var hostname = os.platform();
             var homedir = os.homedir();
             document.getElementById('status').innerText =
-                'Platform: ' + hostname + ', Home: ' + homedir;
+                'Platform in Webview: ' + hostname + ', Home: ' + homedir;
         } catch (err) {
             document.getElementById('status').innerText =
-                'Error: ' + err.message;
+                'Error in Webview: ' + err.message;
         }
-</script>
+    </script>
 </body>
 
 </html>
